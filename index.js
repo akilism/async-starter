@@ -4,4 +4,4 @@
 require('./babel.start');
 
 // Start server.
-require('./server');
+require('./main');
